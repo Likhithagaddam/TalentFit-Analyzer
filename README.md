@@ -1,5 +1,5 @@
-# TalentFit-Analyzer
-TalentFit-Analyzer is a cutting-edge system designed to transform the recruitment process by automating the comparison of resumes with job descriptions. In today’s hiring landscape, manually evaluating resumes is both time-consuming and prone to inconsistency. This project addresses these challenges by leveraging advanced Natural Language Processing (NLP) and machine learning techniques to automate and optimize candidate evaluation.
+# SmartMatch Pro: AI-Powered Resume and Job Description Alignment Tool
+SmartMatch Pro is a cutting-edge system designed to transform the recruitment process by automating the comparison of resumes with job descriptions. In today’s hiring landscape, manually evaluating resumes is both time-consuming and prone to inconsistency. This project addresses these challenges by leveraging advanced Natural Language Processing (NLP) and machine learning techniques to automate and optimize candidate evaluation.
 
 The tool assesses resume compatibility using key metrics such as:
 - Similarity scores  
